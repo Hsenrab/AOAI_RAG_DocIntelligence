@@ -1,0 +1,23 @@
+{
+    "values": [
+        {
+            "recordId": "record1",
+            "data": { 
+                "formUrl": "https://blobstorageb2sw32psgq7km.blob.core.windows.net/uma/uma-10-guides_1.pdf",
+                "formSasToken": "?st=sasTokenThatWillBeGeneratedByCognitiveSearch"
+            }
+        }
+    ]
+}
+
+{
+    "values": [
+        {
+            "recordId": "record1",
+            "data": { 
+                "formUrl": "https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai-document-intelligence/main/Labfiles/04-custom-skill/SampleInvoices/Invoice_1.pdf",
+                "formSasToken": "?st=sasTokenThatWillBeGeneratedByCognitiveSearch"
+            }
+        }
+    ]
+}

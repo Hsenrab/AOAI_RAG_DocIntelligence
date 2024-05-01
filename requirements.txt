@@ -1,0 +1,6 @@
+
+openai==1.3.7
+streamlit
+python-dotenv
+azure-ai-formrecognizer
+azure-storage-blob  
